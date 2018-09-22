@@ -1,0 +1,1 @@
+﻿﻿- This program is designed to predict the survival of titanic passengers##### ALWAYS FOR FUN. PLEASE ENJOY ;-)
