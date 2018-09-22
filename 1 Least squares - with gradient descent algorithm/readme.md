@@ -1,1 +1,1 @@
-﻿### This program is to forecast the close price of certain stocks using Linear regression. Least squares (LS) criterion and gradient descent algorithm (GDA) are used in this code. #### ALWAYS FOR FUN. PLEASE ENJOY ;-)
+﻿- This program is to forecast the close price of certain stocks using Linear regression. Least squares (LS) criterion and gradient descent algorithm (GDA) are used in this code. ##### ALWAYS FOR FUN. PLEASE ENJOY ;-)
