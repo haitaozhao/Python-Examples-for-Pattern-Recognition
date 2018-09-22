@@ -1,0 +1,1 @@
+﻿# This directory contains the codes for my course： Pattern Recognition---1.  Class 2 : Least squares solved by gradient descent algorithm
