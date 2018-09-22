@@ -1,1 +1,1 @@
-﻿﻿- This program is designed to predict the survival of titanic passengers##### ALWAYS FOR FUN. PLEASE ENJOY ;-)
+﻿﻿﻿- This program is designed to predict the survival of titanic passengers-  the training data and testing data can be found at [Lintcode](https://www.lintcode.com/ai/)##### ALWAYS FOR FUN. PLEASE ENJOY ;-)
