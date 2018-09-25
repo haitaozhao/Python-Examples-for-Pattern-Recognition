@@ -1,0 +1,1 @@
+﻿- This program is to forecast the close price of certain stocks using Linear regression. Least squares (LS) criterion is optimized by noniterative solution. ##### ALWAYS FOR FUN. PLEASE ENJOY ;-)
