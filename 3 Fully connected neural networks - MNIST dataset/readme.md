@@ -1,0 +1,1 @@
+﻿- This program shows how to construct fully connected neural networks with tensorflow.- MNIST data set is used in this program for classification. (10 class classification problem.)- The used dataset can be obtained from tensorflow.keras.datasets.minist ##### ALWAYS FOR FUN. PLEASE ENJOY ;-)
