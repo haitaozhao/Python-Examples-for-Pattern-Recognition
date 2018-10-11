@@ -9,10 +9,4 @@
 ####  **Class  2** : [Least squares with noniterative solutions](https://github.com/haitaozhao/Python-Examples-for-Pattern-Recognition/commit/90ec283460327e796459302aa5f7707bcb850efa)
 ####  **Class  3** : [Fully connected neural networks - MNIST dataset](https://github.com/haitaozhao/Python-Examples-for-Pattern-Recognition/tree/master/3%20Fully%20connected%20neural%20networks%20-%20MNIST%20dataset)
 ####  **Class  4** : [A simple linear regression example to show the effect of dimension reduction by PCA](https://github.com/haitaozhao/Python-Examples-for-Pattern-Recognition/tree/master/4%20Example%20of%20PCA%20for%20Dimension%20Reduction)
-
-
-
-
-
-
-
+####  **Class  X** : [A simple  example to show the procedures of decision tree](https://github.com/haitaozhao/Python-Examples-for-Pattern-Recognition/tree/master/8%20Example%20of%20Decision%20Tree)
