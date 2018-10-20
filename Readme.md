@@ -1,4 +1,5 @@
 ## Welcome to my Github pages for Learning Pattern Recognition
+https://haitaozhao.github.io/Python-Examples-for-Pattern-Recognition/
 
 ---
 ####  **Class -3** : [Toy problem: Classifying text messages into hams and spams](https://github.com/haitaozhao/Python-Examples-for-Pattern-Recognition/tree/master/-3%20Toy%20problem%20-%20Predcting%20Ham%20or%20Spam)
