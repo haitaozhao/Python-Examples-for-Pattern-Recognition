@@ -8,15 +8,15 @@ import datetime
 from sklearn import preprocessing
 import numpy as np
 
-style.use('ggplot')
+# style.use('ggplot')
 # start = dt.datetime(2018, 1, 1)
 # end = dt.datetime.now()
-df = web.DataReader('AAPL',"robinhood")
-df.reset_index(inplace=True)
-df.set_index("begins_at", inplace=True)
-df = df.drop("symbol", axis=1)
+# df = web.DataReader('AAPL',"robinhood")
+# df.reset_index(inplace=True)
+# df.set_index("begins_at", inplace=True)
+# df = df.drop("symbol", axis=1)
+# df.to_csv('tsla.csv')
 
-df.to_csv('tsla.csv')
 df = pd.read_csv('tsla.csv', parse_dates=True, index_col=0)
 
 df['HL_PCT'] = (df['high_price'] - df['low_price']) / df['close_price'] * 100.0

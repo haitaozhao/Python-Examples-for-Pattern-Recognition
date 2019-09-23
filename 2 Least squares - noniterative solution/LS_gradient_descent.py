@@ -12,13 +12,13 @@ import numpy as np
 style.use('ggplot')
 
 ## read in the stock data from "robinhood"
-df = web.DataReader('AAPL',"robinhood")
-df.reset_index(inplace=True)
-df.set_index("begins_at", inplace=True)
-df = df.drop("symbol", axis=1)
+# df = web.DataReader('AAPL',"robinhood")
+# df.reset_index(inplace=True)
+# df.set_index("begins_at", inplace=True)
+# df = df.drop("symbol", axis=1)
+## save in the local directory
+# df.to_csv('aapl.csv')
 
-# save in the local directory
-df.to_csv('aapl.csv')
 df = pd.read_csv('aapl.csv', parse_dates=True, index_col=0)
 
 # feature design
